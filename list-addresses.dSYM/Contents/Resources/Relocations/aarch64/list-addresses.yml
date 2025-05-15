@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/madeleinewatson/Desktop/cosi-107a-lab-03-memory-madeleine-watson/list-addresses'
+relocations:     []
+...
